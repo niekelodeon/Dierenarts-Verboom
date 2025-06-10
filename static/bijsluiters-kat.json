@@ -1,0 +1,19 @@
+{
+  "bijsluiters-kat": [
+    {
+      "id": "1",
+      "naam": "1",
+      "link": "https://bijsluiter.com/bijsluiter"
+    },
+    {
+      "id": "2",
+      "naam": "2",
+      "link": "https://bijsluiter.com/bijsluiter"
+    },
+    {
+      "id": "3",
+      "naam": "3",
+      "link": "https://bijsluiter.com/bijsluiter"
+     }
+  ]
+}

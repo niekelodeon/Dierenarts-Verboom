@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.0",
+    "nuxt": "^3.6.5"
+  },
+  "dependencies": {
+    "@nuxt/typescript-build": "^3.0.1",
+    "@nuxtjs/google-fonts": "^3.0.2",
+    "googlefonts": "^1.1.3"
+  }
+}
