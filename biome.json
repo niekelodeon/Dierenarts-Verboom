@@ -1,0 +1,24 @@
+{
+    "$schema": "https://biomejs.dev/schemas/2.0.5/schema.json",
+    "formatter": {
+        "indentWidth": 2,
+        "enabled": true,
+        "indentStyle": "space",
+        "lineWidth": 240,
+        "formatWithErrors": true
+    },
+    "javascript": {
+        "formatter": {
+            "indentWidth": 2,
+            "quoteStyle": "single",
+            "semicolons": "asNeeded",
+            "arrowParentheses": "asNeeded"
+        }
+    },
+    "files": {
+        "includes": ["**/*.js", "**/*.ts", "**/*.jsx", "**/*.tsx", "**/*.vue", "**/*.json", "**/*.jsonc", "**/*.css", "**/*.scss"]
+    },
+    "linter": {
+        "enabled": false
+    }
+}

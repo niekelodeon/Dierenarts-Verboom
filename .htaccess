@@ -1,0 +1,3 @@
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^dierenartsverboom\.nl$ [NC] 
+RewriteRule ^(.*)$ https://www.dierenartsverboom.nl$1 [R=301,L]
