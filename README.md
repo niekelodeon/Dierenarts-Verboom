@@ -2,6 +2,8 @@
 
 This website was made in 2023 with Nuxt 3 and updated in 2025.
 
+Live version: https://www.dierenartsverboom.nl
+
 ## Setup
 
 ```bash
